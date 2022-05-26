@@ -30,7 +30,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Frontend Development
+### 👉 Frontend Development 
 <p align="center"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -47,6 +47,10 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani">
+  </a> 
+	 &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
