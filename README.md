@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Izac Aqsha Ghifari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer;Excited%20to+learn%20new%20things&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer;Excited%20to+learn%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <br>
@@ -45,15 +45,15 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://react-bootstrap.github.io/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani">
   </a> 
 	 &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
     <img alt="Next" src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani">
   </a> 
 </p>
