@@ -85,7 +85,7 @@
   &emsp;
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="https://www.hackerrank.com/izacaqsha"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -98,7 +98,6 @@
 <br/>
 
 ## 📊 HackerRank
-![image]()
 
  <summary><b>💻 Verified Skills</b></summary>
   <br/>
