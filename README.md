@@ -56,10 +56,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="Next" src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani">
   </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
 </p>
 
 
