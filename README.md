@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📫 How to reach me: ...
+⚡ Fun fact: ...
 <!--
 **IzacFE/IzacFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
