@@ -8,7 +8,7 @@
 ## :sassy_man:  About me
 - :school: I am a Junior Front End Web Developer graduated from Alterra Academy Front End Immersive Program Bootcamp
 - :technologist: I love solving `Problems` by creating a program to solve it
-- :telephone_receiver: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1m_4uDEIVHTSQLEHAJ5eta2x2A_YpDGHw/view?usp=sharing).
+- :telephone_receiver: I’m currently open for a new `job opportunity`
 - :fire: Excited to `learn new things`
 
 <br>
